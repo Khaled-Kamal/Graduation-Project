@@ -200,19 +200,20 @@ Graduation Project 2025, Faculty of Computers and Information - Kafr El-Sheikh U
 ## 👥 Team
 
 - **Khaled Kamal Ali** - [GitHub Profile](https://github.com/username)
-- **Nahla Mohammed Saeed** - [GitHub Profile](https://github.com/username)
-- **Khalid Ghonem AbdLhamid** - [GitHub Profile](https://github.com/username)
-- **Samar Basuny Haidar** - [GitHub Profile](https://github.com/username)
-- **Gaber Mohammed Lotfi** - [GitHub Profile](https://github.com/username)
-- **Esraa AbdElfttah Mohammed** - [GitHub Profile](https://github.com/username)
-- **Hussien Talha Hussien** - [GitHub Profile](https://github.com/username)
-- **Khaled Waled Mohammed** - [GitHub Profile](https://github.com/username)
+- **Nahla Mohammed Saeed** 
+- **Khalid Ghonem AbdLhamid** 
+- **Samar Basuny Haidar** 
+- **Gaber Mohammed Lotfi** 
+- **Esraa AbdElfttah Mohammed** - [GitHub Profile](https://github.com/esraa-abdelfttah)
+- **Hussien Talha Hussien** 
+- **Khaled Waled Mohammed** 
 - **Supervisor**: Assoc. Prof. Reda M. Hussien
 
 ## 📞 Support
 
 For support and questions:
 - 📧 Email:  KhaledKamal14t@outlook.sa
+- Phone : 01090662441
 - 📖 Documentation: [Swagger API Docs](http://localhost:5001/swagger)
 
 ---
