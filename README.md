@@ -1,4 +1,4 @@
-# Smart Land - لاند الذكية
+# Smart Land 
 
 ![Smart Land Banner](رابط_صورة_البنر_إن_موجود)
 
@@ -199,7 +199,7 @@ Graduation Project 2025, Faculty of Computers and Information - Kafr El-Sheikh U
 
 ## 👥 Team
 
-- **Khaled Kamal Ali** - [GitHub Profile](https://github.com/username)
+- **Khaled Kamal Ali** - [GitHub Profile](https://github.com/Khaled-Kamal)
 - **Nahla Mohammed Saeed** 
 - **Khalid Ghonem AbdLhamid** 
 - **Samar Basuny Haidar** 
