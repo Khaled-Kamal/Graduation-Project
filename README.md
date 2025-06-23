@@ -1,6 +1,6 @@
 # Smart Land 
 
-![Smart Land Banner](رابط_صورة_البنر_إن_موجود)
+![Smart Land Banner](![Image](https://github.com/user-attachments/assets/cb3c96a2-3ff8-4e3f-acaf-e07c5f2691a0))
 
 > **Intelligent Agricultural Assistant Mobile Application** - Empowering farmers with AI-driven insights, soil fertility analysis, and accessible agricultural knowledge.
 
