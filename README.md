@@ -1,6 +1,6 @@
 # Smart Land 
 
-> **Intelligent Agricultural Assistant Mobile Application** - Empowering farmers with AI-driven insights, soil fertility analysis, and accessible agricultural knowledge.
+> **Intelligent Agricultural Assistant Mobile Application** - Empowering farmers with AI-driven insights, soil fertility analysis, and accessible agricultural knowledge
 
 ## 🚀 Overview
 
