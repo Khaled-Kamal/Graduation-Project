@@ -205,7 +205,7 @@ Graduation Project 2025, Faculty of Computers and Information - Kafr El-Sheikh U
 - **Esraa AbdElfttah Mohammed** - [GitHub Profile](https://github.com/esraa-abdelfttah)
 - **Hussien Talha Hussien** 
 - **Khaled Waled Mohammed** 
-- **Supervisor**: Assoc. Prof. Reda M. Hussien
+- **Supervisor**: Assoc. Prof. Reda M.Hussien
 
 ## 📞 Support
 
