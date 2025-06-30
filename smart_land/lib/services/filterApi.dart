@@ -1,5 +1,4 @@
-
-   import 'package:dio/dio.dart';
+import 'package:dio/dio.dart';
 
 class Fertilizer {
   final int id;
