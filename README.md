@@ -7,7 +7,7 @@
 
 ## 🚀 Overview
 
-**Smart Land** is a mobile application designed to transform agricultural decision-making for farmers, engineers, and enthusiasts.
+**Smart Land** is a mobile application designed to transform agricultural decision-making for farmers, engineers, and enthusiasts..
 It leverages **AI** to deliver real-time support through a bilingual chatbot, soil fertility analysis, and a knowledge base, making expert agricultural guidance accessible **anytime, anywhere**
 
 ---
